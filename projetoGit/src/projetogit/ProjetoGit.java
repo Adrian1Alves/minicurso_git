@@ -18,6 +18,7 @@ public class ProjetoGit {
         // TODO code application logic here
         // Aqui eu fiz uma alteração altamente criativo
         // que bosta
+           //gerando conflito
     }
     
 }
